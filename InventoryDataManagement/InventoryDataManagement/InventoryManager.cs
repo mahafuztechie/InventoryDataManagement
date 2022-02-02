@@ -36,7 +36,6 @@ namespace InventoryDataManagement
             {
                 Console.WriteLine("json file does not exist");
             }
-           
 
         }
     }
